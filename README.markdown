@@ -12,3 +12,11 @@ For more information, visit the official site at http://goldengridsystem.com
 ### Gemfile
 
     gem "ggs-rails", :git => "git://github.com/xdite/compass-ggs-framework.git", :branch => "rails-engine"
+
+### application.css
+    
+     *= require ggs
+    
+### application.js
+    
+     *= require ggs
