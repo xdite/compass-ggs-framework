@@ -4,8 +4,8 @@ require File.expand_path('../lib/ggs-rails/version', __FILE__)
 Gem::Specification.new do |gem|
   gem.authors       = ["xdite"]
   gem.email         = ["xuite.joke@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{based on compass-ggs-framework serve as rails engine}
+  gem.summary       = %q{based on compass-ggs-framework serve as rails engine}
   gem.homepage      = ""
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
